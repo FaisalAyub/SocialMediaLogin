@@ -1,0 +1,10 @@
+C:\Users\FaisalAyub\Downloads\BoilerPlaitApp\5.8.1\aspnet-core\src\BoilerPlaitApp.Core\bin\Debug\netcoreapp3.1\BoilerPlaitApp.Core.deps.json
+C:\Users\FaisalAyub\Downloads\BoilerPlaitApp\5.8.1\aspnet-core\src\BoilerPlaitApp.Core\bin\Debug\netcoreapp3.1\BoilerPlaitApp.Core.dll
+C:\Users\FaisalAyub\Downloads\BoilerPlaitApp\5.8.1\aspnet-core\src\BoilerPlaitApp.Core\bin\Debug\netcoreapp3.1\BoilerPlaitApp.Core.pdb
+C:\Users\FaisalAyub\Downloads\BoilerPlaitApp\5.8.1\aspnet-core\src\BoilerPlaitApp.Core\obj\Debug\netcoreapp3.1\BoilerPlaitApp.Core.csproj.AssemblyReference.cache
+C:\Users\FaisalAyub\Downloads\BoilerPlaitApp\5.8.1\aspnet-core\src\BoilerPlaitApp.Core\obj\Debug\netcoreapp3.1\BoilerPlaitApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FaisalAyub\Downloads\BoilerPlaitApp\5.8.1\aspnet-core\src\BoilerPlaitApp.Core\obj\Debug\netcoreapp3.1\BoilerPlaitApp.Core.AssemblyInfoInputs.cache
+C:\Users\FaisalAyub\Downloads\BoilerPlaitApp\5.8.1\aspnet-core\src\BoilerPlaitApp.Core\obj\Debug\netcoreapp3.1\BoilerPlaitApp.Core.AssemblyInfo.cs
+C:\Users\FaisalAyub\Downloads\BoilerPlaitApp\5.8.1\aspnet-core\src\BoilerPlaitApp.Core\obj\Debug\netcoreapp3.1\BoilerPlaitApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\FaisalAyub\Downloads\BoilerPlaitApp\5.8.1\aspnet-core\src\BoilerPlaitApp.Core\obj\Debug\netcoreapp3.1\BoilerPlaitApp.Core.dll
+C:\Users\FaisalAyub\Downloads\BoilerPlaitApp\5.8.1\aspnet-core\src\BoilerPlaitApp.Core\obj\Debug\netcoreapp3.1\BoilerPlaitApp.Core.pdb

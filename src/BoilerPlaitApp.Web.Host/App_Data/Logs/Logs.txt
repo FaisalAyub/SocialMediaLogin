@@ -1,0 +1,265 @@
+DEBUG 2021-08-14 02:44:32,852 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2021-08-14 02:44:33,004 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2021-08-14 02:44:33,023 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: BoilerPlaitApp.Web.Host.Startup.BoilerPlaitAppWebHostModule, BoilerPlaitApp.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-08-14 02:44:33,025 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: BoilerPlaitApp.BoilerPlaitAppWebCoreModule, BoilerPlaitApp.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-08-14 02:44:33,025 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: BoilerPlaitApp.BoilerPlaitAppApplicationModule, BoilerPlaitApp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-08-14 02:44:33,026 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: BoilerPlaitApp.BoilerPlaitAppCoreModule, BoilerPlaitApp.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-08-14 02:44:33,027 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-08-14 02:44:33,027 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-08-14 02:44:33,027 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-08-14 02:44:33,027 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-08-14 02:44:33,028 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: BoilerPlaitApp.EntityFrameworkCore.BoilerPlaitAppEntityFrameworkModule, BoilerPlaitApp.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-08-14 02:44:33,028 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-08-14 02:44:33,028 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-08-14 02:44:33,028 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-08-14 02:44:33,029 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-08-14 02:44:33,029 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-08-14 02:44:33,030 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=5.13.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-08-14 02:44:33,035 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2021-08-14 02:44:33,166 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2021-08-14 02:44:33,166 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2021-08-14 02:44:33,166 [1    ] o.Configuration.LanguageManagementConfig - Converted BoilerPlaitApp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2021-08-14 02:44:33,166 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2021-08-14 02:44:33,968 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: BoilerPlaitApp.EntityFrameworkCore.BoilerPlaitAppDbContext, BoilerPlaitApp.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2021-08-14 02:44:36,264 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2021-08-14 02:44:36,358 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2021-08-14 02:44:36,373 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2021-08-14 02:44:36,381 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: BoilerPlaitApp
+DEBUG 2021-08-14 02:44:36,388 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2021-08-14 02:44:36,886 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2021-08-14 02:44:37,190 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[BoilerPlaitApp.MultiTenancy.Tenant, BoilerPlaitApp.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[BoilerPlaitApp.Authorization.Users.User, BoilerPlaitApp.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2021-08-14 02:44:37,303 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 8 classes define auto mapping attributes
+DEBUG 2021-08-14 02:44:37,304 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - BoilerPlaitApp.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2021-08-14 02:44:37,317 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - BoilerPlaitApp.Users.Dto.CreateUserDto
+DEBUG 2021-08-14 02:44:37,317 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - BoilerPlaitApp.Users.Dto.UserDto
+DEBUG 2021-08-14 02:44:37,318 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - BoilerPlaitApp.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2021-08-14 02:44:37,319 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - BoilerPlaitApp.Sessions.Dto.UserLoginInfoDto
+DEBUG 2021-08-14 02:44:37,319 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - BoilerPlaitApp.Roles.Dto.PermissionDto
+DEBUG 2021-08-14 02:44:37,319 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - BoilerPlaitApp.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2021-08-14 02:44:37,319 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - BoilerPlaitApp.MultiTenancy.Dto.TenantDto
+INFO  2021-08-14 02:44:43,405 [1    ] tCore.Builder.RequestLocalizationOptions - Supported Request Localization Cultures: en,es-MX,fr,de,it,nl,pt-BR,tr,ru,ar,ja,zh-Hans
+INFO  2021-08-14 02:44:44,011 [1    ] taProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\FaisalAyub\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+INFO  2021-08-14 02:44:44,159 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2021-08-14 02:44:44,314 [9    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'BoilerPlaitApp.Web.Host.Controllers.HomeController.Index (BoilerPlaitApp.Web.Host)'
+INFO  2021-08-14 02:44:50,414 [9    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller BoilerPlaitApp.Web.Host.Controllers.HomeController (BoilerPlaitApp.Web.Host).
+INFO  2021-08-14 02:44:52,497 [9    ] c.Infrastructure.ControllerActionInvoker - Executing action method BoilerPlaitApp.Web.Host.Controllers.HomeController.Index (BoilerPlaitApp.Web.Host) - Validation state: Valid
+INFO  2021-08-14 02:44:52,506 [9    ] c.Infrastructure.ControllerActionInvoker - Executed action method BoilerPlaitApp.Web.Host.Controllers.HomeController.Index (BoilerPlaitApp.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 0.9238ms.
+INFO  2021-08-14 02:44:52,647 [6    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2021-08-14 02:44:52,657 [6    ] c.Infrastructure.ControllerActionInvoker - Executed action BoilerPlaitApp.Web.Host.Controllers.HomeController.Index (BoilerPlaitApp.Web.Host) in 2235.7483ms
+INFO  2021-08-14 02:44:52,661 [6    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'BoilerPlaitApp.Web.Host.Controllers.HomeController.Index (BoilerPlaitApp.Web.Host)'
+INFO  2021-08-14 02:44:52,687 [6    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 8529.7072ms 302 
+INFO  2021-08-14 02:44:52,709 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger  
+INFO  2021-08-14 02:44:52,739 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 29.7973ms 301 
+INFO  2021-08-14 02:44:52,744 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2021-08-14 02:44:52,817 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 73.2454ms 200 text/html;charset=utf-8
+INFO  2021-08-14 02:44:52,975 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui.css  
+INFO  2021-08-14 02:44:52,982 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-bundle.js  
+INFO  2021-08-14 02:44:52,985 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-standalone-preset.js  
+INFO  2021-08-14 02:44:52,992 [6    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.swagger.js  
+INFO  2021-08-14 02:44:52,999 [14   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.js  
+INFO  2021-08-14 02:44:53,083 [14   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.js'. Physical path: 'C:\Users\FaisalAyub\Downloads\BoilerPlaitApp\5.8.1\aspnet-core\src\BoilerPlaitApp.Web.Host\wwwroot\swagger\ui\abp.js'
+INFO  2021-08-14 02:44:53,105 [14   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 98.4023ms 200 application/javascript
+INFO  2021-08-14 02:44:53,107 [4    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  2021-08-14 02:44:53,120 [22   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+INFO  2021-08-14 02:44:53,129 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 164.3151ms 200 text/css
+INFO  2021-08-14 02:44:53,139 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+INFO  2021-08-14 02:44:53,144 [6    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.swagger.js'. Physical path: 'C:\Users\FaisalAyub\Downloads\BoilerPlaitApp\5.8.1\aspnet-core\src\BoilerPlaitApp.Web.Host\wwwroot\swagger\ui\abp.swagger.js'
+INFO  2021-08-14 02:44:53,148 [22   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 151.9286ms 200 application/javascript
+INFO  2021-08-14 02:44:53,157 [6    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 178.5007ms 200 application/javascript
+INFO  2021-08-14 02:44:53,190 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 196.8305ms 200 application/javascript
+INFO  2021-08-14 02:44:53,507 [6    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AntiForgery/SetCookie  
+INFO  2021-08-14 02:44:53,516 [6    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'BoilerPlaitApp.Web.Host.Controllers.AntiForgeryController.SetCookie (BoilerPlaitApp.Web.Host)'
+INFO  2021-08-14 02:44:53,536 [6    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "SetCookie", controller = "AntiForgery", area = ""}. Executing controller action with signature Void SetCookie() on controller BoilerPlaitApp.Web.Host.Controllers.AntiForgeryController (BoilerPlaitApp.Web.Host).
+INFO  2021-08-14 02:44:53,580 [6    ] c.Infrastructure.ControllerActionInvoker - Executing action method BoilerPlaitApp.Web.Host.Controllers.AntiForgeryController.SetCookie (BoilerPlaitApp.Web.Host) - Validation state: Valid
+INFO  2021-08-14 02:44:53,597 [6    ] c.Infrastructure.ControllerActionInvoker - Executed action method BoilerPlaitApp.Web.Host.Controllers.AntiForgeryController.SetCookie (BoilerPlaitApp.Web.Host), returned result Microsoft.AspNetCore.Mvc.EmptyResult in 12.3304ms.
+INFO  2021-08-14 02:44:53,604 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2021-08-14 02:44:53,630 [20   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-08-14 02:44:53,697 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/favicon-32x32.png  
+INFO  2021-08-14 02:44:53,714 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+INFO  2021-08-14 02:44:53,726 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 23.9639ms 200 image/png
+INFO  2021-08-14 02:44:53,895 [20   ] c.Infrastructure.ControllerActionInvoker - Executed action BoilerPlaitApp.Web.Host.Controllers.AntiForgeryController.SetCookie (BoilerPlaitApp.Web.Host) in 346.1434ms
+INFO  2021-08-14 02:44:53,905 [20   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'BoilerPlaitApp.Web.Host.Controllers.AntiForgeryController.SetCookie (BoilerPlaitApp.Web.Host)'
+INFO  2021-08-14 02:44:53,912 [20   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 402.8143ms 200 application/json; charset=utf-8
+INFO  2021-08-14 02:44:53,926 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 323.3615ms 200 application/json;charset=utf-8
+INFO  2021-08-14 02:45:21,838 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2021-08-14 02:45:21,877 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 40.9352ms 200 application/json;charset=utf-8
+INFO  2021-08-14 02:47:19,892 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/AbpUserConfiguration/GetAll  
+INFO  2021-08-14 02:47:19,909 [5    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:47:19,919 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 40.2267ms 204 
+INFO  2021-08-14 02:47:19,925 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AbpUserConfiguration/GetAll  
+INFO  2021-08-14 02:47:19,930 [5    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:47:19,937 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore)'
+INFO  2021-08-14 02:47:19,954 [5    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "GetAll", controller = "AbpUserConfiguration", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] GetAll() on controller Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController (Abp.AspNetCore).
+INFO  2021-08-14 02:47:19,995 [5    ] c.Infrastructure.ControllerActionInvoker - Executing action method Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore) - Validation state: Valid
+INFO  2021-08-14 02:47:21,169 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action method Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore), returned result Microsoft.AspNetCore.Mvc.JsonResult in 1169.7502ms.
+INFO  2021-08-14 02:47:21,200 [23   ] tonsoftJson.NewtonsoftJsonResultExecutor - Executing JsonResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-08-14 02:47:21,299 [23   ] c.Infrastructure.ControllerActionInvoker - Executed action Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore) in 1338.7974ms
+INFO  2021-08-14 02:47:21,303 [23   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore)'
+INFO  2021-08-14 02:47:21,310 [23   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1382.6086ms 200 application/json; charset=utf-8
+INFO  2021-08-14 02:47:21,331 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations  
+INFO  2021-08-14 02:47:21,335 [9    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:47:21,342 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 8.1412ms 204 
+INFO  2021-08-14 02:47:21,346 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations  
+INFO  2021-08-14 02:47:21,351 [5    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:47:21,362 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'BoilerPlaitApp.Sessions.SessionAppService.GetCurrentLoginInformations (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:47:21,391 [5    ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetCurrentLoginInformations", controller = "Session"}. Executing controller action with signature System.Threading.Tasks.Task`1[BoilerPlaitApp.Sessions.Dto.GetCurrentLoginInformationsOutput] GetCurrentLoginInformations() on controller BoilerPlaitApp.Sessions.SessionAppService (BoilerPlaitApp.Application).
+INFO  2021-08-14 02:47:21,526 [5    ] c.Infrastructure.ControllerActionInvoker - Executing action method BoilerPlaitApp.Sessions.SessionAppService.GetCurrentLoginInformations (BoilerPlaitApp.Application) - Validation state: Valid
+INFO  2021-08-14 02:47:21,534 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action method BoilerPlaitApp.Sessions.SessionAppService.GetCurrentLoginInformations (BoilerPlaitApp.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 4.345ms.
+INFO  2021-08-14 02:47:21,541 [5    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-08-14 02:47:21,563 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action BoilerPlaitApp.Sessions.SessionAppService.GetCurrentLoginInformations (BoilerPlaitApp.Application) in 168.4846ms
+INFO  2021-08-14 02:47:21,568 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'BoilerPlaitApp.Sessions.SessionAppService.GetCurrentLoginInformations (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:47:21,577 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 226.4762ms 200 application/json; charset=utf-8
+INFO  2021-08-14 02:47:44,800 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/TokenAuth/Authenticate  
+INFO  2021-08-14 02:47:44,806 [5    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:47:44,811 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 11.6227ms 204 
+INFO  2021-08-14 02:47:44,815 [23   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:21021/api/TokenAuth/Authenticate application/json-patch+json 77
+INFO  2021-08-14 02:47:44,820 [23   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:47:44,825 [23   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'BoilerPlaitApp.Controllers.TokenAuthController.Authenticate (BoilerPlaitApp.Web.Core)'
+INFO  2021-08-14 02:47:44,848 [23   ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "Authenticate", controller = "TokenAuth", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[BoilerPlaitApp.Models.TokenAuth.AuthenticateResultModel] Authenticate(BoilerPlaitApp.Models.TokenAuth.AuthenticateModel) on controller BoilerPlaitApp.Controllers.TokenAuthController (BoilerPlaitApp.Web.Core).
+INFO  2021-08-14 02:47:45,549 [23   ] c.Infrastructure.ControllerActionInvoker - Executing action method BoilerPlaitApp.Controllers.TokenAuthController.Authenticate (BoilerPlaitApp.Web.Core) - Validation state: Valid
+INFO  2021-08-14 02:47:46,060 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action method BoilerPlaitApp.Controllers.TokenAuthController.Authenticate (BoilerPlaitApp.Web.Core), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 506.9767ms.
+INFO  2021-08-14 02:47:46,073 [23   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-08-14 02:47:46,091 [23   ] c.Infrastructure.ControllerActionInvoker - Executed action BoilerPlaitApp.Controllers.TokenAuthController.Authenticate (BoilerPlaitApp.Web.Core) in 1228.6915ms
+INFO  2021-08-14 02:47:46,095 [23   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'BoilerPlaitApp.Controllers.TokenAuthController.Authenticate (BoilerPlaitApp.Web.Core)'
+INFO  2021-08-14 02:47:46,102 [23   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1285.8139ms 200 application/json; charset=utf-8
+INFO  2021-08-14 02:47:47,379 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/AbpUserConfiguration/GetAll  
+INFO  2021-08-14 02:47:47,391 [5    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:47:47,403 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 20.7521ms 204 
+INFO  2021-08-14 02:47:47,407 [21   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AbpUserConfiguration/GetAll  
+INFO  2021-08-14 02:47:47,412 [21   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:47:47,459 [21   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-08-14 02:47:47,571 [9    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore)'
+INFO  2021-08-14 02:47:47,579 [9    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "GetAll", controller = "AbpUserConfiguration", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] GetAll() on controller Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController (Abp.AspNetCore).
+INFO  2021-08-14 02:47:47,772 [9    ] c.Infrastructure.ControllerActionInvoker - Executing action method Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore) - Validation state: Valid
+INFO  2021-08-14 02:47:47,988 [21   ] c.Infrastructure.ControllerActionInvoker - Executed action method Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore), returned result Microsoft.AspNetCore.Mvc.JsonResult in 207.2354ms.
+INFO  2021-08-14 02:47:48,005 [5    ] tonsoftJson.NewtonsoftJsonResultExecutor - Executing JsonResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-08-14 02:47:48,012 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore) in 429.0495ms
+INFO  2021-08-14 02:47:48,017 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore)'
+INFO  2021-08-14 02:47:48,022 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 615.5792ms 200 application/json; charset=utf-8
+INFO  2021-08-14 02:47:48,043 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations  
+INFO  2021-08-14 02:47:48,047 [5    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:47:48,053 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 9.3919ms 204 
+INFO  2021-08-14 02:47:48,057 [23   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations  
+INFO  2021-08-14 02:47:48,061 [23   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:47:48,069 [23   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-08-14 02:47:48,074 [23   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'BoilerPlaitApp.Sessions.SessionAppService.GetCurrentLoginInformations (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:47:48,085 [23   ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetCurrentLoginInformations", controller = "Session"}. Executing controller action with signature System.Threading.Tasks.Task`1[BoilerPlaitApp.Sessions.Dto.GetCurrentLoginInformationsOutput] GetCurrentLoginInformations() on controller BoilerPlaitApp.Sessions.SessionAppService (BoilerPlaitApp.Application).
+INFO  2021-08-14 02:47:48,131 [23   ] c.Infrastructure.ControllerActionInvoker - Executing action method BoilerPlaitApp.Sessions.SessionAppService.GetCurrentLoginInformations (BoilerPlaitApp.Application) - Validation state: Valid
+INFO  2021-08-14 02:47:48,192 [21   ] c.Infrastructure.ControllerActionInvoker - Executed action method BoilerPlaitApp.Sessions.SessionAppService.GetCurrentLoginInformations (BoilerPlaitApp.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 52.0111ms.
+INFO  2021-08-14 02:47:48,201 [21   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-08-14 02:47:48,218 [21   ] c.Infrastructure.ControllerActionInvoker - Executed action BoilerPlaitApp.Sessions.SessionAppService.GetCurrentLoginInformations (BoilerPlaitApp.Application) in 119.8565ms
+INFO  2021-08-14 02:47:48,226 [21   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'BoilerPlaitApp.Sessions.SessionAppService.GetCurrentLoginInformations (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:47:48,242 [21   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 175.0357ms 200 application/json; charset=utf-8
+INFO  2021-08-14 02:47:48,669 [21   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/signalr/negotiate?enc_auth_token=wNYmO41%2F48SHNstaLVXxHCCre29BZQl1NhC6NM3R3rzpXtPQxVzH6jEzA%2FQhXFN5tu6Fk7pO53uppm1mVXMZgxbyRVz26dnepi%2FFyB6axBY%2B6gq1GL%2BuRQgoiFUCjRN2p8w6LevViwKlHyWZZJZO1DGVSjAi1m2U%2Bog9pkHw9%2FQR4Nl%2FDPnoP9JYDMpZ1zxx09u6s0GZ9%2FQ5Sjk%2BL0UfcSCbl38X8he5w9UIn%2FHvxh7ysM1CiPLsoOwtbiieSRVmrmt0JjnipAn4%2FK283F8GrGwzwgehWsqefmUnM0ckMwP9ZAdwQxWDhxv0IqNw4tDhwUYs%2F1SYdYozdNzgByhgNOBPzQDObNLlWc4vV5VMOiZjSIAmUMPQK2RuiSRniO7iHobm%2Bi7r9fXbiDzmrgUE0oVyb0tItNVrgHcDbzDiry4rabh6E058tv4WFVippjphfXibdEYegFPIv95175sfcB3GJ8gCTPiyJdvuUkuqWKt%2F%2B4HQjwhWzVeeCK44ASbzAMF7o4B4ZgJTxdArid%2Fpd6ee7LRaVUe9RH4s3lY8JSuw72pXLUkeFyZIFBtdHpR3C5q7ef%2B8q6u18JHRTkBZ9bOSbWh6il2EDxk3bjGuaJLJVLn16Dbo8KhGiRKnbTSgNK7vaXxJYunUKFlfnH9N4sfSwntY8bo2tMkAjG5v3lrEaeVdnqXT9bHsOAplAGMjkZa8pUYDOOTrAArL6pDPIkb1BRhiQk9WBOm6FZ9Aqt8vSZhTpKjEiJjRushsZUr6XbIFKa%2Bhj3f9p8y0hk8W02RJB5Z884aW%2BLO%2FjqxCfjDjxH2MxI5G6t6dSRCV8Hujt3lPrV7X4bcYheRNlOztfbMvsCyTNPG8VPoxWI158rmIpFNXkuHzR3Lo1N9PhKWi  
+INFO  2021-08-14 02:47:48,673 [21   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:47:48,679 [21   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 12.2964ms 204 
+INFO  2021-08-14 02:47:48,686 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:21021/signalr/negotiate?enc_auth_token=wNYmO41%2F48SHNstaLVXxHCCre29BZQl1NhC6NM3R3rzpXtPQxVzH6jEzA%2FQhXFN5tu6Fk7pO53uppm1mVXMZgxbyRVz26dnepi%2FFyB6axBY%2B6gq1GL%2BuRQgoiFUCjRN2p8w6LevViwKlHyWZZJZO1DGVSjAi1m2U%2Bog9pkHw9%2FQR4Nl%2FDPnoP9JYDMpZ1zxx09u6s0GZ9%2FQ5Sjk%2BL0UfcSCbl38X8he5w9UIn%2FHvxh7ysM1CiPLsoOwtbiieSRVmrmt0JjnipAn4%2FK283F8GrGwzwgehWsqefmUnM0ckMwP9ZAdwQxWDhxv0IqNw4tDhwUYs%2F1SYdYozdNzgByhgNOBPzQDObNLlWc4vV5VMOiZjSIAmUMPQK2RuiSRniO7iHobm%2Bi7r9fXbiDzmrgUE0oVyb0tItNVrgHcDbzDiry4rabh6E058tv4WFVippjphfXibdEYegFPIv95175sfcB3GJ8gCTPiyJdvuUkuqWKt%2F%2B4HQjwhWzVeeCK44ASbzAMF7o4B4ZgJTxdArid%2Fpd6ee7LRaVUe9RH4s3lY8JSuw72pXLUkeFyZIFBtdHpR3C5q7ef%2B8q6u18JHRTkBZ9bOSbWh6il2EDxk3bjGuaJLJVLn16Dbo8KhGiRKnbTSgNK7vaXxJYunUKFlfnH9N4sfSwntY8bo2tMkAjG5v3lrEaeVdnqXT9bHsOAplAGMjkZa8pUYDOOTrAArL6pDPIkb1BRhiQk9WBOm6FZ9Aqt8vSZhTpKjEiJjRushsZUr6XbIFKa%2Bhj3f9p8y0hk8W02RJB5Z884aW%2BLO%2FjqxCfjDjxH2MxI5G6t6dSRCV8Hujt3lPrV7X4bcYheRNlOztfbMvsCyTNPG8VPoxWI158rmIpFNXkuHzR3Lo1N9PhKWi text/plain;charset=UTF-8 0
+INFO  2021-08-14 02:47:48,691 [9    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:47:48,722 [9    ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-08-14 02:47:48,731 [9    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/signalr/negotiate'
+INFO  2021-08-14 02:47:48,767 [9    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/signalr/negotiate'
+INFO  2021-08-14 02:47:48,774 [23   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/signalr?enc_auth_token=wNYmO41%2F48SHNstaLVXxHCCre29BZQl1NhC6NM3R3rzpXtPQxVzH6jEzA%2FQhXFN5tu6Fk7pO53uppm1mVXMZgxbyRVz26dnepi%2FFyB6axBY%2B6gq1GL%2BuRQgoiFUCjRN2p8w6LevViwKlHyWZZJZO1DGVSjAi1m2U%2Bog9pkHw9%2FQR4Nl%2FDPnoP9JYDMpZ1zxx09u6s0GZ9%2FQ5Sjk%2BL0UfcSCbl38X8he5w9UIn%2FHvxh7ysM1CiPLsoOwtbiieSRVmrmt0JjnipAn4%2FK283F8GrGwzwgehWsqefmUnM0ckMwP9ZAdwQxWDhxv0IqNw4tDhwUYs%2F1SYdYozdNzgByhgNOBPzQDObNLlWc4vV5VMOiZjSIAmUMPQK2RuiSRniO7iHobm%2Bi7r9fXbiDzmrgUE0oVyb0tItNVrgHcDbzDiry4rabh6E058tv4WFVippjphfXibdEYegFPIv95175sfcB3GJ8gCTPiyJdvuUkuqWKt%2F%2B4HQjwhWzVeeCK44ASbzAMF7o4B4ZgJTxdArid%2Fpd6ee7LRaVUe9RH4s3lY8JSuw72pXLUkeFyZIFBtdHpR3C5q7ef%2B8q6u18JHRTkBZ9bOSbWh6il2EDxk3bjGuaJLJVLn16Dbo8KhGiRKnbTSgNK7vaXxJYunUKFlfnH9N4sfSwntY8bo2tMkAjG5v3lrEaeVdnqXT9bHsOAplAGMjkZa8pUYDOOTrAArL6pDPIkb1BRhiQk9WBOm6FZ9Aqt8vSZhTpKjEiJjRushsZUr6XbIFKa%2Bhj3f9p8y0hk8W02RJB5Z884aW%2BLO%2FjqxCfjDjxH2MxI5G6t6dSRCV8Hujt3lPrV7X4bcYheRNlOztfbMvsCyTNPG8VPoxWI158rmIpFNXkuHzR3Lo1N9PhKWi&id=x5WeQwy2w5oaaYGa7InV3w  
+INFO  2021-08-14 02:47:48,785 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 87.9588ms 200 application/json
+INFO  2021-08-14 02:47:48,789 [23   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:47:48,828 [23   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-08-14 02:47:48,843 [23   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/signalr'
+DEBUG 2021-08-14 02:47:49,004 [9    ] Abp.AspNetCore.SignalR.Hubs.AbpCommonHub - A client is connected: {"ConnectionId":"x5WeQwy2w5oaaYGa7InV3w","IpAddress":"::1","TenantId":null,"UserId":1,"ConnectTime":"2021-08-14T02:47:48.9990471-07:00","Properties":{}}
+DEBUG 2021-08-14 02:47:49,014 [9    ] Abp.AspNetCore.SignalR.Hubs.AbpCommonHub - A client is registered: x5WeQwy2w5oaaYGa7InV3w
+INFO  2021-08-14 02:48:11,447 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Tenant/GetAll?Keyword=&SkipCount=0&MaxResultCount=10  
+INFO  2021-08-14 02:48:11,452 [9    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:48:11,462 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 10.439ms 204 
+INFO  2021-08-14 02:48:11,464 [22   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Tenant/GetAll?Keyword=&SkipCount=0&MaxResultCount=10  
+INFO  2021-08-14 02:48:11,469 [22   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:48:11,477 [22   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-08-14 02:48:11,482 [22   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'BoilerPlaitApp.MultiTenancy.TenantAppService.GetAllAsync (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:48:11,514 [22   ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "Tenant"}. Executing controller action with signature System.Threading.Tasks.Task`1[Abp.Application.Services.Dto.PagedResultDto`1[BoilerPlaitApp.MultiTenancy.Dto.TenantDto]] GetAllAsync(BoilerPlaitApp.MultiTenancy.Dto.PagedTenantResultRequestDto) on controller BoilerPlaitApp.MultiTenancy.TenantAppService (BoilerPlaitApp.Application).
+INFO  2021-08-14 02:48:11,950 [22   ] c.Infrastructure.ControllerActionInvoker - Executing action method BoilerPlaitApp.MultiTenancy.TenantAppService.GetAllAsync (BoilerPlaitApp.Application) - Validation state: Valid
+INFO  2021-08-14 02:48:12,082 [23   ] c.Infrastructure.ControllerActionInvoker - Executed action method BoilerPlaitApp.MultiTenancy.TenantAppService.GetAllAsync (BoilerPlaitApp.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 128.4542ms.
+INFO  2021-08-14 02:48:12,096 [23   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-08-14 02:48:12,109 [23   ] c.Infrastructure.ControllerActionInvoker - Executed action BoilerPlaitApp.MultiTenancy.TenantAppService.GetAllAsync (BoilerPlaitApp.Application) in 590.1977ms
+INFO  2021-08-14 02:48:12,115 [23   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'BoilerPlaitApp.MultiTenancy.TenantAppService.GetAllAsync (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:48:12,119 [23   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 656.9823ms 200 application/json; charset=utf-8
+INFO  2021-08-14 02:48:15,256 [21   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/User/GetAll?Keyword=&SkipCount=0&MaxResultCount=10  
+INFO  2021-08-14 02:48:15,262 [21   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:48:15,273 [21   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 10.734ms 204 
+INFO  2021-08-14 02:48:15,281 [22   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/User/GetAll?Keyword=&SkipCount=0&MaxResultCount=10  
+INFO  2021-08-14 02:48:15,287 [22   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:48:15,296 [22   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-08-14 02:48:15,301 [22   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'BoilerPlaitApp.Users.UserAppService.GetAllAsync (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:48:15,314 [22   ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Abp.Application.Services.Dto.PagedResultDto`1[BoilerPlaitApp.Users.Dto.UserDto]] GetAllAsync(BoilerPlaitApp.Users.Dto.PagedUserResultRequestDto) on controller BoilerPlaitApp.Users.UserAppService (BoilerPlaitApp.Application).
+INFO  2021-08-14 02:48:15,732 [22   ] c.Infrastructure.ControllerActionInvoker - Executing action method BoilerPlaitApp.Users.UserAppService.GetAllAsync (BoilerPlaitApp.Application) - Validation state: Valid
+INFO  2021-08-14 02:48:15,887 [21   ] c.Infrastructure.ControllerActionInvoker - Executed action method BoilerPlaitApp.Users.UserAppService.GetAllAsync (BoilerPlaitApp.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 150.6125ms.
+INFO  2021-08-14 02:48:15,913 [9    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-08-14 02:48:15,928 [9    ] c.Infrastructure.ControllerActionInvoker - Executed action BoilerPlaitApp.Users.UserAppService.GetAllAsync (BoilerPlaitApp.Application) in 607.5554ms
+INFO  2021-08-14 02:48:15,932 [9    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'BoilerPlaitApp.Users.UserAppService.GetAllAsync (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:48:15,937 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 662.2983ms 200 application/json; charset=utf-8
+INFO  2021-08-14 02:48:28,246 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/User/GetAll?Keyword=&SkipCount=0&MaxResultCount=10  
+INFO  2021-08-14 02:48:28,249 [9    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:48:28,253 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 7.9824ms 204 
+INFO  2021-08-14 02:48:28,257 [21   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/User/GetAll?Keyword=&SkipCount=0&MaxResultCount=10  
+INFO  2021-08-14 02:48:28,262 [21   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:48:28,270 [21   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-08-14 02:48:28,275 [21   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'BoilerPlaitApp.Users.UserAppService.GetAllAsync (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:48:28,283 [21   ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Abp.Application.Services.Dto.PagedResultDto`1[BoilerPlaitApp.Users.Dto.UserDto]] GetAllAsync(BoilerPlaitApp.Users.Dto.PagedUserResultRequestDto) on controller BoilerPlaitApp.Users.UserAppService (BoilerPlaitApp.Application).
+INFO  2021-08-14 02:48:28,318 [21   ] c.Infrastructure.ControllerActionInvoker - Executing action method BoilerPlaitApp.Users.UserAppService.GetAllAsync (BoilerPlaitApp.Application) - Validation state: Valid
+INFO  2021-08-14 02:48:28,341 [23   ] c.Infrastructure.ControllerActionInvoker - Executed action method BoilerPlaitApp.Users.UserAppService.GetAllAsync (BoilerPlaitApp.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 19.4835ms.
+INFO  2021-08-14 02:48:28,353 [22   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-08-14 02:48:28,358 [22   ] c.Infrastructure.ControllerActionInvoker - Executed action BoilerPlaitApp.Users.UserAppService.GetAllAsync (BoilerPlaitApp.Application) in 71.9882ms
+INFO  2021-08-14 02:48:28,362 [22   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'BoilerPlaitApp.Users.UserAppService.GetAllAsync (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:48:28,367 [22   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 109.5527ms 200 application/json; charset=utf-8
+INFO  2021-08-14 02:48:34,704 [23   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/User/GetRoles  
+INFO  2021-08-14 02:48:34,708 [23   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:48:34,714 [23   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 8.3291ms 204 
+INFO  2021-08-14 02:48:34,718 [21   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/User/GetRoles  
+INFO  2021-08-14 02:48:34,722 [21   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:48:34,728 [21   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-08-14 02:48:34,732 [21   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'BoilerPlaitApp.Users.UserAppService.GetRoles (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:48:34,752 [21   ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetRoles", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Abp.Application.Services.Dto.ListResultDto`1[BoilerPlaitApp.Roles.Dto.RoleDto]] GetRoles() on controller BoilerPlaitApp.Users.UserAppService (BoilerPlaitApp.Application).
+INFO  2021-08-14 02:48:34,797 [21   ] c.Infrastructure.ControllerActionInvoker - Executing action method BoilerPlaitApp.Users.UserAppService.GetRoles (BoilerPlaitApp.Application) - Validation state: Valid
+INFO  2021-08-14 02:48:34,842 [23   ] c.Infrastructure.ControllerActionInvoker - Executed action method BoilerPlaitApp.Users.UserAppService.GetRoles (BoilerPlaitApp.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 37.6327ms.
+INFO  2021-08-14 02:48:34,859 [22   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-08-14 02:48:34,878 [22   ] c.Infrastructure.ControllerActionInvoker - Executed action BoilerPlaitApp.Users.UserAppService.GetRoles (BoilerPlaitApp.Application) in 114.6059ms
+INFO  2021-08-14 02:48:34,913 [22   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'BoilerPlaitApp.Users.UserAppService.GetRoles (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:48:34,918 [22   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 198.9677ms 200 application/json; charset=utf-8
+INFO  2021-08-14 02:48:39,955 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Role/GetAll?Keyword=&SkipCount=0&MaxResultCount=10  
+INFO  2021-08-14 02:48:39,960 [9    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:48:39,968 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 10.6627ms 204 
+INFO  2021-08-14 02:48:39,988 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Role/GetAll?Keyword=&SkipCount=0&MaxResultCount=10  
+INFO  2021-08-14 02:48:39,993 [9    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:48:39,999 [9    ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-08-14 02:48:40,005 [9    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'BoilerPlaitApp.Roles.RoleAppService.GetAllAsync (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:48:40,019 [9    ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "Role"}. Executing controller action with signature System.Threading.Tasks.Task`1[Abp.Application.Services.Dto.PagedResultDto`1[BoilerPlaitApp.Roles.Dto.RoleDto]] GetAllAsync(BoilerPlaitApp.Roles.Dto.PagedRoleResultRequestDto) on controller BoilerPlaitApp.Roles.RoleAppService (BoilerPlaitApp.Application).
+INFO  2021-08-14 02:48:40,451 [9    ] c.Infrastructure.ControllerActionInvoker - Executing action method BoilerPlaitApp.Roles.RoleAppService.GetAllAsync (BoilerPlaitApp.Application) - Validation state: Valid
+INFO  2021-08-14 02:48:40,522 [22   ] c.Infrastructure.ControllerActionInvoker - Executed action method BoilerPlaitApp.Roles.RoleAppService.GetAllAsync (BoilerPlaitApp.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 66.7981ms.
+INFO  2021-08-14 02:48:40,539 [9    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-08-14 02:48:40,548 [9    ] c.Infrastructure.ControllerActionInvoker - Executed action BoilerPlaitApp.Roles.RoleAppService.GetAllAsync (BoilerPlaitApp.Application) in 524.0326ms
+INFO  2021-08-14 02:48:40,553 [9    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'BoilerPlaitApp.Roles.RoleAppService.GetAllAsync (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:48:40,559 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 571.0645ms 200 application/json; charset=utf-8
+INFO  2021-08-14 02:48:44,550 [23   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Role/GetRoleForEdit?Id=1  
+INFO  2021-08-14 02:48:44,555 [23   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:48:44,561 [23   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 9.2509ms 204 
+INFO  2021-08-14 02:48:44,564 [21   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Role/GetRoleForEdit?Id=1  
+INFO  2021-08-14 02:48:44,572 [21   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:48:44,581 [21   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-08-14 02:48:44,585 [21   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'BoilerPlaitApp.Roles.RoleAppService.GetRoleForEdit (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:48:44,600 [21   ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetRoleForEdit", controller = "Role"}. Executing controller action with signature System.Threading.Tasks.Task`1[BoilerPlaitApp.Roles.Dto.GetRoleForEditOutput] GetRoleForEdit(Abp.Application.Services.Dto.EntityDto) on controller BoilerPlaitApp.Roles.RoleAppService (BoilerPlaitApp.Application).
+INFO  2021-08-14 02:48:44,647 [21   ] c.Infrastructure.ControllerActionInvoker - Executing action method BoilerPlaitApp.Roles.RoleAppService.GetRoleForEdit (BoilerPlaitApp.Application) - Validation state: Valid
+INFO  2021-08-14 02:48:44,684 [23   ] c.Infrastructure.ControllerActionInvoker - Executed action method BoilerPlaitApp.Roles.RoleAppService.GetRoleForEdit (BoilerPlaitApp.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 33.7045ms.
+INFO  2021-08-14 02:48:44,698 [22   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-08-14 02:48:44,713 [22   ] c.Infrastructure.ControllerActionInvoker - Executed action BoilerPlaitApp.Roles.RoleAppService.GetRoleForEdit (BoilerPlaitApp.Application) in 107.2354ms
+INFO  2021-08-14 02:48:44,717 [22   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'BoilerPlaitApp.Roles.RoleAppService.GetRoleForEdit (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:48:44,723 [22   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 157.074ms 200 application/json; charset=utf-8
+INFO  2021-08-14 02:49:01,521 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Role/GetAll?Keyword=&SkipCount=0&MaxResultCount=10  
+INFO  2021-08-14 02:49:01,526 [9    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:49:01,535 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 16.1339ms 204 
+INFO  2021-08-14 02:49:01,537 [23   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Role/GetAll?Keyword=&SkipCount=0&MaxResultCount=10  
+INFO  2021-08-14 02:49:01,541 [23   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2021-08-14 02:49:01,547 [23   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2021-08-14 02:49:01,552 [23   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'BoilerPlaitApp.Roles.RoleAppService.GetAllAsync (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:49:01,562 [23   ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "Role"}. Executing controller action with signature System.Threading.Tasks.Task`1[Abp.Application.Services.Dto.PagedResultDto`1[BoilerPlaitApp.Roles.Dto.RoleDto]] GetAllAsync(BoilerPlaitApp.Roles.Dto.PagedRoleResultRequestDto) on controller BoilerPlaitApp.Roles.RoleAppService (BoilerPlaitApp.Application).
+INFO  2021-08-14 02:49:01,608 [23   ] c.Infrastructure.ControllerActionInvoker - Executing action method BoilerPlaitApp.Roles.RoleAppService.GetAllAsync (BoilerPlaitApp.Application) - Validation state: Valid
+INFO  2021-08-14 02:49:01,637 [9    ] c.Infrastructure.ControllerActionInvoker - Executed action method BoilerPlaitApp.Roles.RoleAppService.GetAllAsync (BoilerPlaitApp.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 26.8072ms.
+INFO  2021-08-14 02:49:01,656 [4    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2021-08-14 02:49:01,662 [4    ] c.Infrastructure.ControllerActionInvoker - Executed action BoilerPlaitApp.Roles.RoleAppService.GetAllAsync (BoilerPlaitApp.Application) in 95.577ms
+INFO  2021-08-14 02:49:01,667 [4    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'BoilerPlaitApp.Roles.RoleAppService.GetAllAsync (BoilerPlaitApp.Application)'
+INFO  2021-08-14 02:49:01,670 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 137.6909ms 200 application/json; charset=utf-8

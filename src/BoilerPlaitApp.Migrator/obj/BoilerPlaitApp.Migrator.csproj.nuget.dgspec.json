@@ -1,0 +1,237 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.Migrator\\BoilerPlaitApp.Migrator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.Core\\BoilerPlaitApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.Core\\BoilerPlaitApp.Core.csproj",
+        "projectName": "BoilerPlaitApp.Core",
+        "projectPath": "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.Core\\BoilerPlaitApp.Core.csproj",
+        "packagesPath": "C:\\Users\\FaisalAyub\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FaisalAyub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://payactiv1.pkgs.visualstudio.com/_packaging/PayActiv_Feed@Release/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Abp.AutoMapper": {
+              "target": "Package",
+              "version": "[5.13.0, )"
+            },
+            "Abp.ZeroCore.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.13.0, )"
+            },
+            "Castle.Windsor.MsDependencyInjection": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.EntityFrameworkCore\\BoilerPlaitApp.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.EntityFrameworkCore\\BoilerPlaitApp.EntityFrameworkCore.csproj",
+        "projectName": "BoilerPlaitApp.EntityFrameworkCore",
+        "projectPath": "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.EntityFrameworkCore\\BoilerPlaitApp.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\FaisalAyub\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FaisalAyub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://payactiv1.pkgs.visualstudio.com/_packaging/PayActiv_Feed@Release/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.Core\\BoilerPlaitApp.Core.csproj": {
+                "projectPath": "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.Core\\BoilerPlaitApp.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.Migrator\\BoilerPlaitApp.Migrator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.Migrator\\BoilerPlaitApp.Migrator.csproj",
+        "projectName": "BoilerPlaitApp.Migrator",
+        "projectPath": "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.Migrator\\BoilerPlaitApp.Migrator.csproj",
+        "packagesPath": "C:\\Users\\FaisalAyub\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.Migrator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FaisalAyub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://payactiv1.pkgs.visualstudio.com/_packaging/PayActiv_Feed@Release/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.Core\\BoilerPlaitApp.Core.csproj": {
+                "projectPath": "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.Core\\BoilerPlaitApp.Core.csproj"
+              },
+              "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.EntityFrameworkCore\\BoilerPlaitApp.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\Users\\FaisalAyub\\Downloads\\BoilerPlaitApp\\5.8.1\\aspnet-core\\src\\BoilerPlaitApp.EntityFrameworkCore\\BoilerPlaitApp.EntityFrameworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Abp.Castle.Log4Net": {
+              "target": "Package",
+              "version": "[5.13.0, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
